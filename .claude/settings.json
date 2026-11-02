@@ -1,0 +1,19 @@
+{
+  "enabledPlugins": {
+    "repo-to-notebooklm@tamardobrin-plugins": true,
+    "repo-setup@tamardobrin-plugins": true,
+    "eli5@tamardobrin-plugins": true,
+    "cross-review@tamardobrin-plugins": true,
+    "seedance-higgsfield@tamardobrin-plugins": true,
+    "screen-tutorial-edit@tamardobrin-plugins": true,
+    "il-supermarket-compare@tamardobrin-plugins": true
+  },
+  "extraKnownMarketplaces": {
+    "tamardobrin-plugins": {
+      "source": {
+        "source": "github",
+        "repo": "tamardobrin/claude-plugins"
+      }
+    }
+  }
+}
